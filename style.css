@@ -1,0 +1,23 @@
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.unord {
+	width: 40%;
+	list-style-position: inside;
+	text-align: left;
+	display: inline-block;
+}
+
+.listdot {
+	list-style-type: circle;
+}
+
+.litem {
+	width: 20%;
+	list-style-position: inside;
+	text-align: left;
+	display: inline-block;
+}
